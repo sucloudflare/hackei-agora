@@ -1,36 +1,4 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-<meta charset="UTF-8">
-<title>CORS Misconfiguration Testing – Practical Commands</title>
-<style>
-body{
-font-family: Arial, sans-serif;
-background:#f4f6f8;
-color:#333;
-margin:40px;
-}
-h1,h2{
-color:#1a3d7c;
-}
-code{
-background:#eee;
-padding:6px;
-display:block;
-margin:10px 0;
-white-space:pre-wrap;
-}
-.section{
-background:white;
-padding:20px;
-margin-bottom:25px;
-border-radius:8px;
-box-shadow:0 2px 6px rgba(0,0,0,0.1);
-}
-</style>
-</head>
 
-<body>
 
 <h1>CORS Misconfiguration Testing – Practical Commands</h1>
 
